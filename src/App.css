@@ -17,10 +17,20 @@
   font-size: large;
 }
 
+.Container {
+  width: 650px;
+  margin: auto;
+}
+
 input [type='text']{
   padding: 4px;
   width: 350px;
   height: 30px;
   border-radius: 5px;
   border: 1px solid #ccc;
+}
+
+form div {
+  margin-bottom: 15px;
+  line-height: 2.2em;
 }
