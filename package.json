@@ -4,6 +4,10 @@
   "description": "React And Firebase",
   "author": "uanoob",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uanoob/simple-survey.git"
+  },
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
